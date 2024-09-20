@@ -1,0 +1,49 @@
+
+.col-sm-1{
+          grid-column-end: span 1;
+}
+.col-sm-2{
+          grid-column-end: span 2;
+}
+.col-sm-3{
+          grid-column-end: span 3;
+}
+.col-sm-4{
+          grid-column-end: span 4;
+}
+.col-sm-5{
+          grid-column-end: span 5;
+}
+.col-sm-6{
+          grid-column-end: span 6;
+}
+.col-sm-7{
+          grid-column-end: span 7;
+}
+.col-sm-8{
+          grid-column-end: span 8;
+}
+.col-sm-9{
+          grid-column-end: span 9;
+}
+.col-sm-10{
+          grid-column-end: span 10;
+}
+.col-sm-11{
+          grid-column-end: span 11;
+}
+.col-sm-12{
+          grid-column-end: span 12;
+}
+.col-sm-13{
+          grid-column-end: span 13;
+}
+.col-sm-14{
+          grid-column-end: span 14;
+}
+.col-sm-15{
+          grid-column-end: span 15;
+}
+.col-sm-16{
+          grid-column-end: span 16;
+}
